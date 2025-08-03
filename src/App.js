@@ -116,8 +116,8 @@ const MENU = [
     name: "Chilidogo",
     description:
       "Hot-dog con pan grande, salchica dentro de un chile envuelto en tocino, tomate, cebolla cruda, cebolla asada (con chile morron), catsup, aderezo especial, mostaza, queso amarillo, chorizo",
-    only: "Only Hotdog $6",
-    combo: "Combo Hot-dog $8 (incluye papas y soda)",
+    only: "Only Hotdog $8",
+    combo: "Combo Hot-dog $10 (incluye papas y soda)",
     price: 8,
     category: "Platos fuertes",
     tags: ["popular"],
